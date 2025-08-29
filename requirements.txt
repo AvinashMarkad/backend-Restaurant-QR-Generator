@@ -21,3 +21,7 @@ python-decouple==3.8
 
 # If you use Django filters with DRF
 django-filter==24.2
+
+qrcode==7.4.2
+Pillow==10.4.0
+
