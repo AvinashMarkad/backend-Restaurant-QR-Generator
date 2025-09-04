@@ -25,6 +25,10 @@ django-filter==24.2
 qrcode==7.4.2
 Pillow==10.4.0
 
-pip install gunicorn
+Django>=5.0
+djangorestframework>=3.15
+gunicorn>=23.0.0
+psycopg2-binary>=2.9
+
 
 
